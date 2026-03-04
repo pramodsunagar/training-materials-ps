@@ -283,7 +283,7 @@ https://microsoftlearning.github.io/mslearn-github/#gh-300
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-300
 
 ### Practice Assessment
-https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/practice/assessment
+[https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/practice/assessment](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/practice/assessment?assessment-type=practice&assessmentId=218035372&practice-assessment-type=certification)
 
 ---
 
