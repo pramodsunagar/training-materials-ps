@@ -10,9 +10,6 @@ https://learn.microsoft.com/en-us/training/courses/gh-300t00
 ### GH-300 Labs
 https://microsoftlearning.github.io/mslearn-github/#gh-300
 
-### Achievement Code
-https://learn.microsoft.com/users/me/achievements?redeem=5Y6QLD&WT.mc_id=ilt_partner_webpage_wwl
-
 ---
 
 ## 🤖 GitHub Copilot
