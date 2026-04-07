@@ -171,7 +171,7 @@ Follow this structured roadmap to build expertise progressively:
 
 > Use responsibly for learning purposes only
 
-* [GH-300 Dumps (Practice Only)](https://certyiq.com/papers/microsoft/gh-300/1)
+* [GH-300 Dumps](https://certyiq.com/papers/microsoft/gh-300/1)
 
 ---
 
